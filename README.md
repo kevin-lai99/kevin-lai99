@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, Im Kevin 👋
+A Full-Stack Developer who loves building thing piece by piece! Including but not limited to: Softwares, Websites, MineCraft Buildings and Gundam Platic Models. 
 
-<!--
-**kevin-lai99/kevin-lai99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## On Going Project 🛠️
 
-Here are some ideas to get you started:
+**flatt.ie** (completed)<br />
+Finance web application for expense tracking within a flat, with user log in features and adding/deleting expenses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**AI-Spy** (completed)<br />
+A web app inspired by the game “I Spy”. Using Gemini Ai, players will try to guess what the answer is on a specific topic with hints available.
+
+## Currently Learning 🧠
+
+* C# <br />
+* Three.js <br />
+
+## Connections ☕
+If you'd like a chat about anything feel free to reach out!
+* 🔗 [LinkedIn](https://www.linkedin.com/in/kevinlai99/)
+* 📧 kevinllai@hotmail.com
