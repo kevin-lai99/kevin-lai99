@@ -19,3 +19,4 @@ A web app inspired by the game “I Spy”. Using Gemini Ai, players will try to
 If you'd like a chat about anything feel free to reach out!
 * 🔗 [LinkedIn](https://www.linkedin.com/in/kevinlai99/)
 * 📧 kevinllai@hotmail.com
+* 📃 [CV](https://github.com/user-attachments/files/21283162/new.cv1.pdf)
